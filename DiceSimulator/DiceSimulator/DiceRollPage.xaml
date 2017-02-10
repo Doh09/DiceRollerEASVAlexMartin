@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DiceSimulator.DiceRollPage">
+ <StackLayout Orientation="Vertical">
+   <Label Text="Dice roller" ></Label>
+   <Image Source="two_dices.jpg" Aspect="AspectFit"></Image>
+   <Entry Text="2" x:Name="AmountOfDices" Placeholder="Enter amount" Keyboard="Numeric" ></Entry>
+
+   <Button x:Name="btn_RollAndSeeList" Text="Roll and see list"></Button>
+   <Button x:Name="btn_SeeListOfRolls" Text="See list without rolling"></Button>
+ </StackLayout>
+</ContentPage>
