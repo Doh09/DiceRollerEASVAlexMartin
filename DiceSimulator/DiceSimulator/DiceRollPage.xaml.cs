@@ -21,12 +21,8 @@ namespace DiceSimulator
                 if (HasValidInput())
                 {
                     int amountOfRolls = Convert.ToInt32(AmountOfDices.Text);
-                    for (int i = 0; i < amountOfRolls; i++)
-                    {
-                        DiceRoll dc = dcm.PerformRoll();
-                        dcm.AddDiceRoll(dc);
-                    }
-
+                    dcm.PerformRolls(amountOfRolls);
+                    App.MyToast.DisplayToast($"{amountOfRolls} new rolls performed");
                     await Navigation.PushAsync(new ListOfDiceRolls());
                 }
                 else

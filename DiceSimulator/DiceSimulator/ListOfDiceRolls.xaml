@@ -6,17 +6,12 @@
     <ListView x:Name="ListViewOfDiceRolls">
       <ListView.ItemTemplate>
         <DataTemplate>
-          <ViewCell>
-            <StackLayout Orientation="Horizontal">
+          <ImageCell Detail="{Binding TimeRollWasPerformed}" Text="{Binding RollsHorisontallyAsString}">
 
-                <Label Text="{Binding NumberRolled}"></Label>
-                <Label Text="{Binding TimeRollWasPerformed}"></Label>
-              </StackLayout>
-
-          </ViewCell>
+          </ImageCell>
         </DataTemplate>
       </ListView.ItemTemplate>
     </ListView>
-    
+
   </StackLayout>
 </ContentPage>
