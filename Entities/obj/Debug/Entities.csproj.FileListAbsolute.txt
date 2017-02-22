@@ -30,3 +30,5 @@ C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\Entities\obj\Debug\Entit
 C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\Entities\bin\Debug\Entities.dll.mdb
 C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\Entities\obj\Debug\Entities.dll.mdb
 C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\Entities\bin\Debug\Entities.dll.mdb
+C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\Entities\obj\Debug\Entities.dll.mdb
+C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\Entities\bin\Debug\Entities.dll.mdb

@@ -45,3 +45,5 @@ C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\DiceSimulator\DiceSimula
 C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.dll.mdb
 C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.dll.mdb
 C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.dll.mdb
+C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.dll.mdb
+C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.dll.mdb

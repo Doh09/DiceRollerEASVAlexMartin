@@ -12,3 +12,5 @@ C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\Interfaces\obj\Debug\Int
 C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\Interfaces\bin\Debug\Interfaces.dll.mdb
 C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\Interfaces\obj\Debug\Interfaces.dll.mdb
 C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\Interfaces\bin\Debug\Interfaces.dll.mdb
+C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\Interfaces\obj\Debug\Interfaces.dll.mdb
+C:\Users\Alex\Documents\GitHub\DiceRollerEASVAlexMartin\Interfaces\bin\Debug\Interfaces.dll.mdb
