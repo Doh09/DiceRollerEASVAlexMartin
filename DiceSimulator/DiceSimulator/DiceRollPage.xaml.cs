@@ -27,7 +27,7 @@ namespace DiceSimulator
                 }
                 else
                 {
-                    App.MyToast.DisplayToast("ERROR - please write an amount higher than 0");
+                    App.MyToast.DisplayToast("ERROR - please enter a numerical amount between 1 and 6");
                 }
             };
 
@@ -42,8 +42,11 @@ namespace DiceSimulator
         {
             if (AmountOfDices == null)
                 return false;
-
             if (AmountOfDices.Text.Length <= 0)
+                return false;
+
+            int amountOfDices = Convert.ToInt32(AmountOfDices.Text);
+            if (amountOfDices < 1 || amountOfDices > 6)
                 return false;
 
             return true;
